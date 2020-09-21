@@ -1,4 +1,4 @@
 # clinthoke.github.io
 
 
-Website for D. CLint Hoke
+Website for D. Clint Hoke
